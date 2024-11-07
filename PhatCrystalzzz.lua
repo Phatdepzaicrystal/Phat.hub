@@ -2,7 +2,7 @@ print("ZZZ");
 local v0 = require(game:GetService("ReplicatedStorage").Notification);
 v0.new("<Color=Cyan>Welcome to Phat Hub<Color=/>"):Display();
 wait(0.5);
-v0.new("<Color=Yellow>HALO HALOHALO<Color=/>"):Display();
+v0.new("<Color=Yellow>Everyone Goes to Discord to Communicate<Color=/>"):Display();
 wait(1);
 repeat
 	wait();
@@ -193,7 +193,7 @@ v5.Window = function(v134, v135)
 	v197.Position = UDim2.new(0, 30, 0.05, 0);
 	v197.Size = UDim2.new(0, 255, 0.05, 25);
 	v197.Font = Enum.Font.SourceSansBold;
-	v197.Text = "Phat Hub";
+	v197.Text = "Xeter Hub";
 	v197.TextSize = 17;
 	v197.TextColor3 = Color3.fromRGB(0, 134, 139);
 	v197.TextXAlignment = Enum.TextXAlignment.Left;

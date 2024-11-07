@@ -2,7 +2,7 @@ print("ZZZ");
 local v0 = require(game:GetService("ReplicatedStorage").Notification);
 v0.new("<Color=Cyan>Welcome to Phat Hub<Color=/>"):Display();
 wait(0.5);
-v0.new("<Color=Red>zzzzzz<Color=/>"):Display();
+v0.new("<Color=Yellow>HALO HALOHALO<Color=/>"):Display();
 wait(1);
 repeat
 	wait();
@@ -212,7 +212,7 @@ v5.Window = function(v134, v135)
 	local v223 = Instance.new("Frame");
 	v223.Name = "Tab";
 	v223.Parent = v147;
-	v223.BackgroundColor3 = Color3.fromRGB(25, 25, 112);
+	v223.BackgroundColor3 = Color3.fromRGB(0, 0, 0);
 	v223.Position = UDim2.new(0, 14, 0, 33);
 	v223.BackgroundTransparency = 1;
 	v223.Size = UDim2.new(0, 138, 0, 307);
